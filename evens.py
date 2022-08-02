@@ -1,5 +1,3 @@
-
-
 def even_number_of_evens(numbers):
     """
     Should Raise a TypeError if a list in not passed into the function
